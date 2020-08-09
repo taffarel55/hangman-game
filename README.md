@@ -21,7 +21,7 @@ O jogo foi criado para fins didáticos utilizando o `DevC++` quando eu estava ap
 |-----------------------------------------------------------|------------------------------------------------------|
 
 ## Execução
-O jogo só funciona corretamente no Windows ou através do [Wine](https://pt.wikipedia.org/wiki/Wine), para executar o jogo execute [`Jogo da Forca.exe`](Jogo%20da%20Forca.exe).
+O jogo só funciona corretamente no Windows ou através do [Wine](https://pt.wikipedia.org/wiki/Wine), para executar o jogo execute [`Jogo da Forca.exe`](Jogo%20da%20Forca.exe). Para navegar nos menus utilize `w`,`a`,`s`,`d` e `Enter`. Note que o `Caps Lock` pode precisar ser ativado.
 
 ## Contribuir
 Contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Todas as contribuições que você fizer são muito bem vindas!
