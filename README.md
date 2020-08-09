@@ -1,33 +1,34 @@
-# jogodaforca
+<h1 align="center">
+  <br>
+  <a href="#"><img src="arquivos/logo.png" alt="Just a simple icon" width="60"></a>
+  <br>
+  Hangman Game
+  <br>
+</h1>
 
-usa a conio.c
+O game possui o objetivo de simular uma interface gráfica de um jogo através de movimentos dos caracteres especiais contidos na tabela ASCII para obteção de desenhos e de uma espécie de interface gráfica.
 
-# Foobar
+O jogo foi criado para fins didáticos utilizando o `DevC++` quando eu estava aprendendo C, então peço desculpas por "bad code", o código é livre para edição e reutilização, podendo ser editado e melhorado. Por favor se houver qualquer bug pode me avisar em um dos contatos abaixo!
 
-Foobar is a Python library for dealing with word pluralization.
+> Jogo feito no Windows, se tentar compilar no Linux vai precisar da biblioteca `windows.h`
 
-## Installation
+> Caso precise da biblioteca `conio.c` ou `conio.h` clique [aqui](bibliotecas), no DevC++ bibliotecas devem ser inseridas neste diretório: 
+> 
+> `Dev-Cpp/MinGW32/include/`
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
-```bash
-pip install foobar
-```
+| <img src="arquivos/menu.png" alt="Game menu"/> | <img src="arquivos/game.png" alt="Game"/> |
+|-----------------------------------------------------------|------------------------------------------------------|
 
-## Usage
+## Execução
+O jogo só funciona corretamente no Windows ou através do [Wine](https://pt.wikipedia.org/wiki/Wine), para executar o jogo execute [`Jogo da Forca.exe`](Jogo%20da%20Forca.exe).
 
-```python
-import foobar
+## Contribuir
+Contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Todas as contribuições que você fizer são muito bem vindas!
+O código está disponível [aqui](code), uma das versões é a correta, eu não tenho certeza qual é e fiquei com preguiça de testar :D
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
+## Autor
+* Mauricio Taffarel - [taffarel55](https://github.com/taffarel55)
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## Licença
+[MIT](LICENSE)
